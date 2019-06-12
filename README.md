@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Metronome Web App
+
+This is metronome web app made in react in a single afternoon sprint.
+You can change the tempo and pause the app.
 
 ## Available Scripts
 
